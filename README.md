@@ -20,4 +20,7 @@ A collection for those interested in learning more about React, React Native, an
 ## Resources
 [The 16 Most Popular React Links So Far in 2016](https://medium.com/cooper-press/the-18-most-popular-react-links-so-far-in-2016-b3492c0d9f03#.6jussnhwa)
 
+### Internationalization
+Yahoo's [React Intl](https://github.com/yahoo/react-intl)
+
 [Internationalization in React](https://medium.freecodecamp.com/internationalization-in-react-7264738274a0#.l2bgfx9pe)
