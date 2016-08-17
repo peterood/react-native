@@ -6,6 +6,10 @@ A collection for those interested in learning more about React, React Native, an
 
 [Reactiflux](http://www.reactiflux.com/)
 
+## Documentation
+[React](https://facebook.github.io/react/)
+[React Native](http://facebook.github.io/react-native/)
+
 ## NYC Meetups
 [CocoaPods NYC](http://www.meetup.com/CocoaPods-NYC/)
 
@@ -16,6 +20,9 @@ A collection for those interested in learning more about React, React Native, an
 
 ## Newsletters
 [React Statuscode](http://react.statuscode.com/)
+
+## Tooling
+[New React Developer Tools blog post](https://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html)
 
 ## Resources
 [The 16 Most Popular React Links So Far in 2016](https://medium.com/cooper-press/the-18-most-popular-react-links-so-far-in-2016-b3492c0d9f03#.6jussnhwa)
