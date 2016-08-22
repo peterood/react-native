@@ -32,3 +32,5 @@ A collection for those interested in learning more about React, React Native, an
 Yahoo's [React Intl](https://github.com/yahoo/react-intl)
 
 [Internationalization in React](https://medium.freecodecamp.com/internationalization-in-react-7264738274a0#.l2bgfx9pe)
+
+[Right-to-Left Layout Support For React Native Apps](https://facebook.github.io/react-native/blog/2016/08/19/right-to-left-support-for-react-native-apps.html)
